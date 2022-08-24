@@ -21,6 +21,7 @@ This script demonstrates a simple ERC-20 Deflationary token, the availability of
 
 ## Languages
 
+- Solidity
 - Javascript
 
 ## Technologies
